@@ -3,9 +3,7 @@ package simplecache
 import (
 	"context"
 	"fmt"
-
 	"testing"
-	"time"
 )
 
 func TestSimpleCache_MGet(t *testing.T) {
